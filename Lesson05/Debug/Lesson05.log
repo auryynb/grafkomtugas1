@@ -1,0 +1,25 @@
+﻿  glad.c
+  Demo.cpp
+C:\Users\tuffx\Downloads\Grafika Komputer dan Visualisasi\vs\Lesson05\Demo.cpp(562,3): error C2065: 't': undeclared identifier
+C:\Users\tuffx\Downloads\Grafika Komputer dan Visualisasi\vs\Lesson05\Demo.cpp(563,3): error C2065: 'x': undeclared identifier
+C:\Users\tuffx\Downloads\Grafika Komputer dan Visualisasi\vs\Lesson05\Demo.cpp(563,13): error C2065: 't': undeclared identifier
+C:\Users\tuffx\Downloads\Grafika Komputer dan Visualisasi\vs\Lesson05\Demo.cpp(563,23): error C2065: 't': undeclared identifier
+C:\Users\tuffx\Downloads\Grafika Komputer dan Visualisasi\vs\Lesson05\Demo.cpp(563,28): error C2065: 'p0': undeclared identifier
+C:\Users\tuffx\Downloads\Grafika Komputer dan Visualisasi\vs\Lesson05\Demo.cpp(563,46): error C2065: 't': undeclared identifier
+C:\Users\tuffx\Downloads\Grafika Komputer dan Visualisasi\vs\Lesson05\Demo.cpp(563,51): error C2065: 't': undeclared identifier
+C:\Users\tuffx\Downloads\Grafika Komputer dan Visualisasi\vs\Lesson05\Demo.cpp(563,55): error C2065: 'p1': undeclared identifier
+C:\Users\tuffx\Downloads\Grafika Komputer dan Visualisasi\vs\Lesson05\Demo.cpp(563,64): error C2065: 't': undeclared identifier
+C:\Users\tuffx\Downloads\Grafika Komputer dan Visualisasi\vs\Lesson05\Demo.cpp(563,68): error C2065: 't': undeclared identifier
+C:\Users\tuffx\Downloads\Grafika Komputer dan Visualisasi\vs\Lesson05\Demo.cpp(563,72): error C2065: 'p2': undeclared identifier
+C:\Users\tuffx\Downloads\Grafika Komputer dan Visualisasi\vs\Lesson05\Demo.cpp(564,3): error C2065: 'z': undeclared identifier
+C:\Users\tuffx\Downloads\Grafika Komputer dan Visualisasi\vs\Lesson05\Demo.cpp(564,13): error C2065: 't': undeclared identifier
+C:\Users\tuffx\Downloads\Grafika Komputer dan Visualisasi\vs\Lesson05\Demo.cpp(564,23): error C2065: 't': undeclared identifier
+C:\Users\tuffx\Downloads\Grafika Komputer dan Visualisasi\vs\Lesson05\Demo.cpp(564,28): error C2065: 'p0': undeclared identifier
+C:\Users\tuffx\Downloads\Grafika Komputer dan Visualisasi\vs\Lesson05\Demo.cpp(564,46): error C2065: 't': undeclared identifier
+C:\Users\tuffx\Downloads\Grafika Komputer dan Visualisasi\vs\Lesson05\Demo.cpp(564,51): error C2065: 't': undeclared identifier
+C:\Users\tuffx\Downloads\Grafika Komputer dan Visualisasi\vs\Lesson05\Demo.cpp(564,55): error C2065: 'p1': undeclared identifier
+C:\Users\tuffx\Downloads\Grafika Komputer dan Visualisasi\vs\Lesson05\Demo.cpp(564,64): error C2065: 't': undeclared identifier
+C:\Users\tuffx\Downloads\Grafika Komputer dan Visualisasi\vs\Lesson05\Demo.cpp(564,68): error C2065: 't': undeclared identifier
+C:\Users\tuffx\Downloads\Grafika Komputer dan Visualisasi\vs\Lesson05\Demo.cpp(564,72): error C2065: 'p2': undeclared identifier
+  RenderEngine.cpp
+  Generating Code...
